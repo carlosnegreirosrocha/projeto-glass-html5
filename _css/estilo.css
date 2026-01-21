@@ -115,13 +115,13 @@
 
  nav#menu li {
    display: inline-block;
-   background-color: lightgray;
+   background-color: #4169E1;
    padding: 10px;
    margin: 2px;
  }
 
  nav#menu li:hover {
-   background-color: darkgray;
+   background-color: #1E40AF;
    transition-duration: 1s;
  }
 
